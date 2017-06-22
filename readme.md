@@ -1,4 +1,4 @@
-# array-no-repeat
+# image-as-ascii
 
 > Covert an image to ascii art.
 
