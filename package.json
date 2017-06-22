@@ -1,7 +1,7 @@
 {
   "name": "image-as-ascii",
   "version": "1.0.0",
-  "description": "Convert image to ASCII text",
+  "description": "Convert image to ASCII art",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
